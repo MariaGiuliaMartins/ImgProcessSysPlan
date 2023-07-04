@@ -4,20 +4,20 @@ O seguinte projeto disponível online foi tomado como referência: http://sg-web
 
 # Pré-requisitos
 
-Antes de executar o projeto, certifique-se de ter baixado o projeto completo, incluindo a pasta Assets que contém as dependências necessárias. As seguintes dependências estão 
+Antes de executar o projeto, certifique-se de ter baixado o projeto completo, incluindo a pasta [Assets](https://github.com/MariaGiuliaMartins/ImgProcessSysPlan/tree/main/Assets) que contém as dependências necessárias. As seguintes dependências estão 
 
 incluídas na pasta Assets:
-- Three.js
+- [Three.js](https://threejs.org/)
 
 # Instalação
 
 Baixe o projeto completo.
 
-Abra o arquivo `solarSystem.html` em um navegador da web para visualizar o Sistema Solar em 3D.
+Abra o arquivo [`solarSystem.html`](https://github.com/MariaGiuliaMartins/ImgProcessSysPlan/blob/main/SolarSystem/CodigoBase/solarSystem.html) em um navegador da web para visualizar o Sistema Solar em 3D.
 
 # Uso
 
-Ao abrir o arquivo `solarSystem.html`, você verá a representação em 3D do Sistema Solar. Os planetas estão dispostos em suas órbitas ao redor do Sol. Você pode interagir com a visualização usando o mouse:
+Ao abrir o arquivo [`solarSystem.html`](https://github.com/MariaGiuliaMartins/ImgProcessSysPlan/blob/main/SolarSystem/CodigoBase/solarSystem.html), você verá a representação em 3D do Sistema Solar. Os planetas estão dispostos em suas órbitas ao redor do Sol. Você pode interagir com a visualização usando o mouse:
 
 - Clique e segure o botão do mouse para girar a visualização.
 - Solte o botão do mouse para parar de girar.
@@ -28,7 +28,7 @@ Ao abrir o arquivo `solarSystem.html`, você verá a representação em 3D do Si
 
 1 - Criação do Sol e dos planetas com as texturas e dimensões de distância e tamanho
 
-- Tamanho retirado de: Dialnet-DemonstreEmAulaComparacaoEntreOsTamanhosDosPlaneta-5165587.pdf
+- Tamanho retirado de: [Dialnet-DemonstreEmAulaComparacaoEntreOsTamanhosDosPlaneta-5165587.pdf](https://github.com/MariaGiuliaMartins/ImgProcessSysPlan/blob/main/Dialnet-DemonstreEmAulaComparacaoEntreOsTamanhosDosPlaneta-5165587.pdf)
 
 - Distancias retiradas de: https://planetario.ufsc.br/o-sistema-solar/
 
