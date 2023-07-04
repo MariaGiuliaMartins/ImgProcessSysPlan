@@ -4,10 +4,12 @@ O seguinte projeto disponível online foi tomado como referência: http://sg-web
 
 # Pré-requisitos
 
-Antes de executar o projeto, certifique-se de ter baixado o projeto completo, incluindo a pasta [Assets](https://github.com/MariaGiuliaMartins/ImgProcessSysPlan/tree/main/Assets) que contém as dependências necessárias. As seguintes dependências estão 
+Antes de executar o projeto, certifique-se de ter baixado o projeto completo, incluindo a pasta [Assets](https://github.com/MariaGiuliaMartins/ImgProcessSysPlan/tree/main/Assets) que contém as dependências necessárias. 
 
-incluídas na pasta Assets:
+As seguintes dependências estão incluídas na pasta Assets:
 - [Three.js](https://threejs.org/)
+
+A forma correta de abrir o projeto deve ser pela pasta raíz, englobando todas as outras pastas do projeto. Caso contário, não funcionará.
 
 # Instalação
 
