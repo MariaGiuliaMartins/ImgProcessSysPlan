@@ -1,5 +1,7 @@
 Este é um projeto que representa o Sistema Solar em 3D utilizando a biblioteca Three.js. Ele exibe os planetas em suas órbitas ao redor do Sol e permite interações do usuário com o mouse para girar a visualização.
 
+Um vídeo demo do resultado final está anexado ao final desta página.
+
 O seguinte projeto disponível online foi tomado como referência: http://sg-webgl.azurewebsites.net/
 
 # Pré-requisitos
@@ -55,3 +57,9 @@ Ao abrir o arquivo [`solarSystem.html`](https://github.com/MariaGiuliaMartins/Im
 8 - Adicionando a lua ao redor da terra e fazendo sua rotação e translação
 
 9 - Apagando as arestas do cubo
+
+# Vídeo Demo
+
+https://github.com/MariaGiuliaMartins/ImgProcessSysPlan/assets/48299122/42ffb196-f6cc-496d-aeea-7a6a8ea44e54
+
+
